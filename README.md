@@ -8,9 +8,11 @@ Depth estimation is one of the most important tasks in autonomous driving, and L
 </p>
 
 **videos from results:**
+
 Day1 on The MVSEC Dataset
 [![Watch the video](pic/day1.png)](https://youtu.be/AL911t6QpBA)
 P: Our network prediction, GT: Ground Truth
+
 
 
 
@@ -20,9 +22,11 @@ P: Our network prediction, GT: Ground Truth
 
 
 
+
 Night2 on The MVSEC Dataset
 [![Watch the video](pic/night2.png)](https://youtu.be/AL911t6QpBA)
 P: Our network prediction, GT: Ground Truth
+
 
 
 
